@@ -1,0 +1,52 @@
+id_aluno,nome_completo,email,telefone,cpf,data_nascimento,curso,periodo,nota_final,data_matricula,status_aluno
+1,João Silva,joao@email.com,11999887766,12345678901,1995-03-15,Engenharia,Noturno,8.5,2020-01-15,Ativo
+2,Maria Santos,maria.santos@gmail.com,21987654321,98765432100,1992-07-22,Administração,Matutino,9.2,2020-02-20,Ativo
+3,  Pedro Lima  ,,11888776655,11122233344,1990-12-10,Direito,Vespertino,0.0,2020-03-10,Inativo
+4,Ana Costa,ana@invalid,21999887766,55566677788,2025-01-01,Medicina,Integral,7.8,2020-04-05,Ativo
+5,Carlos Oliveira,carlos.oliveira@hotmail.com,11777665544,22233344455,1988-09-18,Engenharia,Noturno,6.5,2020-05-12,Ativo
+1,João Silva,joao@email.com,11999887766,12345678901,1995-03-15,Engenharia,Noturno,8.5,2020-01-15,Ativo
+6,Fernanda Rocha,fernanda@universidade.edu.br,11666554433,33344455566,1994-04-25,Psicologia,Matutino,9.8,2020-06-18,Ativo
+7,Roberto123,roberto@email,1199988,44455566677,1985-11-30,Economia,Vespertino,-2.5,2020-07-22,Pendente
+8,Juliana Mendes,juliana.mendes@yahoo.com,21888777666,77788899900,1996-02-14,Arquitetura,Integral,8.9,2020-08-30,Ativo
+9,Marcos Pereira,marcos@gmail.com,11555443322,88899900011,1991-06-08,Computação,Noturno,7.2,2020-09-15,Ativo
+10,Luciana Ferreira,,21777666555,99900011122,1989-10-12,Letras,Matutino,0.0,2020-10-20,Inativo
+11,Rafael Costa,rafael.costa@outlook.com,11444332211,12312312312,1993-01-20,Engenharia,Noturno,9.5,2020-11-25,Ativo
+12,Camila Souza,camila@email.com,21666555444,23423423423,1991-08-05,Design,Vespertino,8.1,2020-12-10,Ativo
+13,Bruno Alves,bruno.alves@gmail.com,11333221100,34534534534,1987-05-17,Física,Matutino,6.8,2021-01-15,Ativo
+14,Patrícia Lima,patricia@invalid-email,21555444333,45645645645,1994-12-03,Química,Integral,7.9,2021-02-20,Ativo
+15,Diego Santos,diego.santos@hotmail.com,11222110099,56756756756,1986-09-28,Biologia,Vespertino,0.0,2021-03-25,Inativo
+16,Renata Oliveira,renata@universidade.edu,21444333222,67867867867,1992-03-11,História,Matutino,8.7,2021-04-30,Ativo
+17,Thiago Rocha,thiago.rocha@yahoo.com,11111000999,78978978978,1990-07-24,Geografia,Noturno,9.1,2021-05-15,Ativo
+18,Vanessa Costa,,21333222111,89089089089,1988-11-16,Sociologia,Vespertino,5.5,2021-06-20,Pendente
+19,André Ferreira,andre@email.com,11000999888,90190190190,1984-04-02,Filosofia,Matutino,10.0,2021-07-25,Ativo
+20,Cristina Alves,cristina.alves@gmail.com,21222111000,01201201201,1995-08-19,Matemática,Integral,8.3,2021-08-30,Ativo
+21,Gustavo Lima,gustavo@invalid,11999000888,11111111111,1989-12-25,Estatística,Noturno,7.6,2021-09-15,Ativo
+22,Larissa Santos,larissa.santos@outlook.com,21111000999,22222222222,1993-06-07,Pedagogia,Matutino,9.4,2021-10-20,Ativo
+23,Felipe Oliveira,,11888000777,33333333333,1991-02-28,Educação Física,Vespertino,0.0,2021-11-25,Inativo
+24,Isabela Rocha,isabela@universidade.edu.br,21000999888,44444444444,1988-10-14,Nutrição,Integral,8.6,2021-12-30,Ativo
+25,Leonardo Costa,leonardo.costa@hotmail.com,11777000666,55555555555,1985-01-30,Farmácia,Noturno,9.7,2022-01-15,Ativo
+26,Natália Ferreira,natalia@invalid-domain,21999000888,66666666666,1994-09-12,Enfermagem,Matutino,7.4,2022-02-20,Ativo
+27,Ricardo Alves,ricardo.alves@gmail.com,11666000555,77777777777,1992-05-26,Fisioterapia,Vespertino,6.9,2022-03-25,Pendente
+28,Tatiana Lima,tatiana@email.com,21888000777,88888888888,1990-03-08,Odontologia,Integral,8.8,2022-04-30,Ativo
+29,Vinicius Santos,,11555000444,99999999999,1987-11-21,Veterinária,Noturno,0.0,2022-05-15,Inativo
+30,Aline Oliveira,aline.oliveira@yahoo.com,21777000666,10101010101,1995-07-04,Jornalismo,Matutino,9.0,2022-06-20,Ativo
+31,Rodrigo Rocha,rodrigo@invalid,11444000333,20202020202,1989-12-17,Publicidade,Vespertino,7.7,2022-07-25,Ativo
+32,Carolina Costa,carolina.costa@outlook.com,21666000555,30303030303,1993-04-29,Turismo,Integral,8.4,2022-08-30,Ativo
+33,Fábio Ferreira,fabio@universidade.edu,11333000222,40404040404,1986-08-13,Gastronomia,Noturno,9.3,2022-09-15,Ativo
+34,Priscila Alves,,21555000444,50505050505,1991-01-25,Moda,Matutino,6.2,2022-10-20,Pendente
+35,Marcelo Lima,marcelo.lima@gmail.com,11222000111,60606060606,1988-06-10,Teatro,Vespertino,8.0,2022-11-25,Ativo
+36,Bianca Santos,bianca@invalid-email,21444000333,70707070707,1994-10-22,Música,Integral,7.5,2022-12-30,Ativo
+37,Eduardo Oliveira,eduardo.oliveira@hotmail.com,11111000000,80808080808,1990-02-06,Artes Visuais,Noturno,9.6,2023-01-15,Ativo
+38,Daniela Rocha,daniela@email.com,21333000222,90909090909,1992-09-18,Cinema,Matutino,8.2,2023-02-20,Ativo
+39,Henrique Costa,,11000000999,01010101010,1987-05-03,Fotografia,Vespertino,0.0,2023-03-25,Inativo
+40,Renata Ferreira,renata.ferreira@yahoo.com,21222000111,12121212121,1989-11-15,Dança,Integral,7.8,2023-04-30,Ativo
+41,José Silva,jose@invalid,11999887766,12345678901,1995-03-15,Engenharia,Noturno,8.5,2019-01-15,Ativo
+42,Amanda Lima,amanda.lima@outlook.com,21111000888,23232323232,1993-07-28,Literatura,Matutino,9.9,2023-05-15,Ativo
+43,Bruno Costa,bruno@universidade.edu.br,11888000666,34343434343,1991-12-09,Linguística,Vespertino,6.7,2023-06-20,Pendente
+44,Carla Santos,,21000000777,45454545454,1988-04-21,Antropologia,Integral,0.0,2023-07-25,Inativo
+45,Daniel Oliveira,daniel.oliveira@gmail.com,11777000555,56565656565,1985-08-14,Arqueologia,Noturno,10.0,2023-08-30,Ativo
+46,Eliana Rocha,eliana@invalid-domain,21999000666,67676767676,1994-01-07,Teologia,Matutino,7.1,2023-09-15,Ativo
+47,Fernando Alves,fernando.alves@hotmail.com,11666000444,78787878787,1992-06-19,Relações Internacionais,Vespertino,8.9,2023-10-20,Ativo
+48,Gabriela Lima,gabriela@email.com,21888000555,89898989898,1990-10-31,Ciências Políticas,Integral,9.2,2023-11-25,Ativo
+49,Hugo Santos,,11555000333,90909090909,1987-02-13,Serviço Social,Matutino,0.0,2023-12-01,Pendente
+50,Ingrid Oliveira,ingrid.oliveira@yahoo.com,21777000444,01010101010,1989-09-25,Biblioteconomia,Vespertino,8.7,2023-12-15,Ativo

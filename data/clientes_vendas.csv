@@ -1,0 +1,52 @@
+id_cliente,nome_completo,email,telefone,cpf,data_nascimento,endereco,cidade,estado,cep,data_cadastro,status_cliente,valor_ultima_compra,data_ultima_compra,categoria_cliente
+1,João Silva,joao@email.com,11999887766,12345678901,1985-03-15,Rua das Flores 123,São Paulo,SP,01234-567,2020-01-15,Ativo,1500.50,2023-12-01,Premium
+2,Maria Santos,maria.santos@gmail.com,21987654321,98765432100,1990-07-22,Av. Paulista 1000,São Paulo,SP,01310-100,2020-02-20,Ativo,2300.75,2023-11-28,VIP
+3,  Pedro Lima  ,,11888776655,11122233344,1988-12-10,Rua Augusta 500,São Paulo,SP,01305-000,2020-03-10,Inativo,0.00,2022-05-15,Bronze
+4,Ana Costa,ana@invalid,21999887766,55566677788,2025-01-01,Rua Oscar Freire 200,São Paulo,SP,01426-001,2020-04-05,Ativo,850.25,2023-12-05,Silver
+5,Carlos Oliveira,carlos.oliveira@hotmail.com,11777665544,22233344455,1975-09-18,Rua da Consolação 300,São Paulo,SP,01302-907,2020-05-12,Ativo,3200.00,2023-11-30,VIP
+1,João Silva,joao@email.com,11999887766,12345678901,1985-03-15,Rua das Flores 123,São Paulo,SP,01234-567,2020-01-15,Ativo,1500.50,2023-12-01,Premium
+6,Fernanda Rocha,fernanda@empresa.com.br,11666554433,33344455566,1992-04-25,Alameda Santos 100,São Paulo,SP,01418-100,2020-06-18,Ativo,1800.90,2023-12-02,Premium
+7,Roberto123,roberto@email,1199988,44455566677,1980-11-30,Rua Haddock Lobo 150,São Paulo,SP,01414-001,2020-07-22,Pendente,500.00,2023-10-15,Bronze
+8,Juliana Mendes,juliana.mendes@yahoo.com,21888777666,77788899900,1995-02-14,Rua Barão de Capanema 80,Rio de Janeiro,RJ,22271-020,2020-08-30,Ativo,2100.40,2023-11-25,Silver
+9,Marcos Pereira,marcos@gmail.com,11555443322,88899900011,1983-06-08,Rua Estados Unidos 500,São Paulo,SP,01427-001,2020-09-15,Ativo,1200.75,2023-12-03,Silver
+10,Luciana Ferreira,,21777666555,99900011122,1987-10-12,Av. Copacabana 1200,Rio de Janeiro,RJ,22070-011,2020-10-20,Inativo,0.00,2021-03-10,Bronze
+11,Rafael Costa,rafael.costa@outlook.com,11444332211,12312312312,1991-01-20,Rua Pamplona 800,São Paulo,SP,01405-001,2020-11-25,Ativo,2800.60,2023-11-29,VIP
+12,Camila Souza,camila@email.com,21666555444,23423423423,1989-08-05,Rua Visconde de Pirajá 400,Rio de Janeiro,RJ,22410-002,2020-12-10,Ativo,1650.30,2023-12-04,Premium
+13,Bruno Alves,bruno.alves@gmail.com,11333221100,34534534534,1986-05-17,Rua Bela Cintra 600,São Paulo,SP,01415-002,2021-01-15,Ativo,950.80,2023-11-27,Silver
+14,Patrícia Lima,patricia@invalid-email,21555444333,45645645645,1993-12-03,Av. Nossa Senhora de Copacabana 800,Rio de Janeiro,RJ,22050-002,2021-02-20,Ativo,1400.20,2023-12-06,Silver
+15,Diego Santos,diego.santos@hotmail.com,11222110099,56756756756,1984-09-28,Rua Oscar Freire 1000,São Paulo,SP,01426-002,2021-03-25,Inativo,0.00,2022-08-20,Bronze
+16,Renata Oliveira,renata@empresa.com,21444333222,67867867867,1990-03-11,Rua Barata Ribeiro 300,Rio de Janeiro,RJ,22040-001,2021-04-30,Ativo,2200.50,2023-11-26,Premium
+17,Thiago Rocha,thiago.rocha@yahoo.com,11111000999,78978978978,1988-07-24,Rua Augusta 1200,São Paulo,SP,01305-001,2021-05-15,Ativo,1750.90,2023-12-07,Premium
+18,Vanessa Costa,,21333222111,89089089089,1985-11-16,Av. Atlântica 2000,Rio de Janeiro,RJ,22021-001,2021-06-20,Pendente,300.00,2023-09-10,Bronze
+19,André Ferreira,andre@email.com,11000999888,90190190190,1982-04-02,Rua da Consolação 700,São Paulo,SP,01302-908,2021-07-25,Ativo,3500.75,2023-11-24,VIP
+20,Cristina Alves,cristina.alves@gmail.com,21222111000,01201201201,1994-08-19,Rua Siqueira Campos 200,Rio de Janeiro,RJ,22031-071,2021-08-30,Ativo,1300.40,2023-12-08,Silver
+21,Gustavo Lima,gustavo@invalid,11999000888,11111111111,1987-12-25,Rua Haddock Lobo 300,São Paulo,SP,01414-002,2021-09-15,Ativo,1900.60,2023-11-23,Premium
+22,Larissa Santos,larissa.santos@outlook.com,21111000999,22222222222,1991-06-07,Av. Nossa Senhora de Copacabana 1500,Rio de Janeiro,RJ,22070-012,2021-10-20,Ativo,2400.80,2023-12-09,VIP
+23,Felipe Oliveira,,11888000777,33333333333,1989-02-28,Rua Estados Unidos 800,São Paulo,SP,01427-002,2021-11-25,Inativo,0.00,2022-12-15,Bronze
+24,Isabela Rocha,isabela@empresa.com.br,21000999888,44444444444,1986-10-14,Rua Barata Ribeiro 600,Rio de Janeiro,RJ,22040-002,2021-12-30,Ativo,1600.25,2023-11-22,Silver
+25,Leonardo Costa,leonardo.costa@hotmail.com,11777000666,55555555555,1983-01-30,Alameda Santos 500,São Paulo,SP,01418-101,2022-01-15,Ativo,2700.90,2023-12-10,VIP
+26,Natália Ferreira,natalia@invalid-domain,21999000888,66666666666,1992-09-12,Av. Copacabana 2500,Rio de Janeiro,RJ,22070-013,2022-02-20,Ativo,1100.50,2023-11-21,Silver
+27,Ricardo Alves,ricardo.alves@gmail.com,11666000555,77777777777,1990-05-26,Rua Pamplona 1200,São Paulo,SP,01405-002,2022-03-25,Pendente,750.30,2023-08-18,Bronze
+28,Tatiana Lima,tatiana@email.com,21888000777,88888888888,1988-03-08,Rua Visconde de Pirajá 800,Rio de Janeiro,RJ,22410-003,2022-04-30,Ativo,1950.70,2023-12-11,Premium
+29,Vinicius Santos,,11555000444,99999999999,1985-11-21,Rua Bela Cintra 900,São Paulo,SP,01415-003,2022-05-15,Inativo,0.00,2023-01-20,Bronze
+30,Aline Oliveira,aline.oliveira@yahoo.com,21777000666,10101010101,1993-07-04,Av. Atlântica 3000,Rio de Janeiro,RJ,22021-002,2022-06-20,Ativo,2050.40,2023-11-20,Premium
+31,Rodrigo Rocha,rodrigo@invalid,11444000333,20202020202,1987-12-17,Rua Oscar Freire 1500,São Paulo,SP,01426-003,2022-07-25,Ativo,1450.60,2023-12-12,Silver
+32,Carolina Costa,carolina.costa@outlook.com,21666000555,30303030303,1991-04-29,Rua Siqueira Campos 500,Rio de Janeiro,RJ,22031-072,2022-08-30,Ativo,2300.80,2023-11-19,VIP
+33,Fábio Ferreira,fabio@empresa.com,11333000222,40404040404,1984-08-13,Rua da Consolação 1000,São Paulo,SP,01302-909,2022-09-15,Ativo,1700.20,2023-12-13,Premium
+34,Priscila Alves,,21555000444,50505050505,1989-01-25,Av. Nossa Senhora de Copacabana 2000,Rio de Janeiro,RJ,22070-014,2022-10-20,Pendente,400.00,2023-07-22,Bronze
+35,Marcelo Lima,marcelo.lima@gmail.com,11222000111,60606060606,1986-06-10,Rua Augusta 1800,São Paulo,SP,01305-002,2022-11-25,Ativo,2800.50,2023-11-18,VIP
+36,Bianca Santos,bianca@invalid-email,21444000333,70707070707,1992-10-22,Rua Barata Ribeiro 900,Rio de Janeiro,RJ,22040-003,2022-12-30,Ativo,1250.90,2023-12-14,Silver
+37,Eduardo Oliveira,eduardo.oliveira@hotmail.com,11111000000,80808080808,1988-02-06,Rua Haddock Lobo 600,São Paulo,SP,01414-003,2023-01-15,Ativo,1850.30,2023-11-17,Premium
+38,Daniela Rocha,daniela@email.com,21333000222,90909090909,1990-09-18,Av. Copacabana 3500,Rio de Janeiro,RJ,22070-015,2023-02-20,Ativo,2150.70,2023-12-15,Premium
+39,Henrique Costa,,11000000999,01010101010,1985-05-03,Rua Estados Unidos 1200,São Paulo,SP,01427-003,2023-03-25,Inativo,0.00,2023-06-10,Bronze
+40,Renata Ferreira,renata.ferreira@yahoo.com,21222000111,12121212121,1987-11-15,Rua Visconde de Pirajá 1200,Rio de Janeiro,RJ,22410-004,2023-04-30,Ativo,1950.40,2023-12-16,Premium
+41,José Silva,jose@invalid,11999887766,12345678901,1985-03-15,Rua das Flores 123,São Paulo,SP,01234-567,2020-01-15,Ativo,1500.50,2019-12-01,Premium
+42,Amanda Lima,amanda.lima@outlook.com,21111000888,23232323232,1991-07-28,Av. Atlântica 4000,Rio de Janeiro,RJ,22021-003,2023-05-15,Ativo,2400.60,2023-11-16,VIP
+43,Bruno Costa,bruno@empresa.com.br,11888000666,34343434343,1989-12-09,Alameda Santos 800,São Paulo,SP,01418-102,2023-06-20,Pendente,650.80,2023-05-20,Bronze
+44,Carla Santos,,21000000777,45454545454,1986-04-21,Rua Siqueira Campos 800,Rio de Janeiro,RJ,22031-073,2023-07-25,Inativo,0.00,2023-02-28,Bronze
+45,Daniel Oliveira,daniel.oliveira@gmail.com,11777000555,56565656565,1983-08-14,Rua Pamplona 1500,São Paulo,SP,01405-003,2023-08-30,Ativo,3100.20,2023-12-17,VIP
+46,Eliana Rocha,eliana@invalid-domain,21999000666,67676767676,1992-01-07,Av. Nossa Senhora de Copacabana 2500,Rio de Janeiro,RJ,22070-016,2023-09-15,Ativo,1350.90,2023-11-15,Silver
+47,Fernando Alves,fernando.alves@hotmail.com,11666000444,78787878787,1990-06-19,Rua Bela Cintra 1200,São Paulo,SP,01415-004,2023-10-20,Ativo,1750.50,2023-12-18,Premium
+48,Gabriela Lima,gabriela@email.com,21888000555,89898989898,1988-10-31,Rua Barata Ribeiro 1200,Rio de Janeiro,RJ,22040-004,2023-11-25,Ativo,2050.30,2023-11-14,Premium
+49,Hugo Santos,,11555000333,90909090909,1985-02-13,Rua da Consolação 1300,São Paulo,SP,01302-910,2023-12-01,Pendente,850.70,2023-04-15,Bronze
+50,Ingrid Oliveira,ingrid.oliveira@yahoo.com,21777000444,01010101010,1987-09-25,Av. Copacabana 4500,Rio de Janeiro,RJ,22070-017,2023-12-15,Ativo,1650.40,2023-12-19,Silver
